@@ -13,7 +13,7 @@ Inspired by the Japanese concept of *shibui* — the beauty of quiet, functional
 
 ## How to run in XFCE
 
-Open "Session and startup", and add it there with user privileges.
+Open "Session and startup", then "Application autostart", and add it there on login with regular user privileges.
 
 ## How to run with crontab
 
