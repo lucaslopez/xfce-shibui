@@ -1,0 +1,3 @@
+
+PYENV_VERSION=3.12 pyenv exec python --version
+PYENV_VERSION=3.12 pyenv exec python /usr/local/bin/xfce-shibui.py
